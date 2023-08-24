@@ -1,5 +1,1 @@
-Added variables print warn error
-
-*Warn used as: warn <string>
-*print used as: print <string>
-*error used as: error <string>
+# sfx
